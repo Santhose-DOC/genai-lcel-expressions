@@ -1,4 +1,4 @@
-# Experiment: Design and Implementation of LangChain Expression Language (LCEL) Expressions
+# Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
 ## AIM
 
