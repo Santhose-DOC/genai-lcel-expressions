@@ -38,7 +38,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 # Create a prompt template
 prompt = ChatPromptTemplate.from_template(
-    "Tell me a short joke about {topic}"
+    "Tell me a quote about {topic}"
 )
 
 # Initialize the language model
@@ -73,7 +73,7 @@ from langchain_core.vectorstores import InMemoryVectorStore
 
 # Sample documents
 texts = [
-    "Dravid lives at Zoho",
+    "Dravid works at Zoho",
     "Doremon likes to eat doracake"
 ]
 
